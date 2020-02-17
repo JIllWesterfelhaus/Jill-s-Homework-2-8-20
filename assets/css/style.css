@@ -50,7 +50,8 @@ p {
     font-size: 16px;
 }
 
-.hero {
+.hero,
+.search-engine-optimization {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
